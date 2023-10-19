@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "285863099cdfbbab",
+    "type": "split",
+    "children": [
+      {
+        "id": "c91bb4fc7f350030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9271f026d226db08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "排序/冒泡排序.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3943560a03af1f96",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ce36841a7195b6c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "432875f4e687b80e",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b21db1ee957d19a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbfa03bb0182a422",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9333b10ab61d7bd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e40733c9217e8fcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31d62d687789e265",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7893225036b81f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ef452fef168cf4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fba9588363e9b24f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "排序/冒泡排序.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a1953c3ad6507b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "排序/冒泡排序.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f71ec12b3b21ebfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09c7dcab2496e1b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "排序/冒泡排序.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9271f026d226db08",
+  "lastOpenFiles": [
+    "附件/Peek 2023-10-19 16-34.gif",
+    "附件",
+    "排序/插入排序.md",
+    "排序/data_structure.md",
+    "排序/选择排序.md",
+    "排序/基数排序.md",
+    "排序/归并排序.md",
+    "排序/堆排序.md",
+    "排序/快速排序.md",
+    "排序/希尔排序.md",
+    "排序/冒泡排序.md",
+    "排序/排序的基本概念.md",
+    "排序"
+  ]
+}
