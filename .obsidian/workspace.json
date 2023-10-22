@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "排序/-排序的基本概念.md",
+                "file": "排序/希尔排序.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f7893225036b81f8",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "排序/-排序的基本概念.md",
+                "file": "排序/希尔排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "排序/-排序的基本概念.md",
+                "file": "排序/希尔排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "排序/-排序的基本概念.md"
+                "file": "排序/希尔排序.md"
               }
             }
           }
@@ -149,23 +148,23 @@
   },
   "active": "9271f026d226db08",
   "lastOpenFiles": [
-    "排序/冒泡排序.md",
-    "排序/希尔排序.md",
-    "排序/-排序的基本概念.md",
-    "排序/插入排序.md",
     "排序/选择排序.md",
+    "排序/希尔排序.md",
+    "排序/冒泡排序.md",
+    "排序/快速排序.md",
     "排序/基数排序.md",
+    "排序/归并排序.md",
+    "排序/堆排序.md",
+    "排序/插入排序.md",
+    "排序/-排序的基本概念.md",
     "排序/data_structure.md",
     "附件/Peek 2023-10-20 15-11.gif",
-    "排序/快速排序.md",
     "附件/Peek 2023-10-20 15-09.gif",
-    "排序/归并排序.md",
     "附件/Peek 2023-10-20 15-08.gif",
     "附件/Peek 2023-10-20 15-07.gif",
     "附件/Peek 2023-10-20 15-04.gif",
     "附件/Peek 2023-10-19 16-34.gif",
     "附件",
-    "排序/堆排序.md",
     "排序"
   ]
 }
