@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c91bb4fc7f350030",
+        "id": "08d4c1ee5c4cb2e8",
         "type": "tabs",
         "children": [
           {
-            "id": "9271f026d226db08",
+            "id": "1dd981c39e4d5a22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "排序/冒泡排序.md",
+                "file": "图论/图的相关概念.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "aa405f10e736a830",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b9b248204bb85118",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {}
             }
           }
         ]
@@ -83,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f7893225036b81f8",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "排序/冒泡排序.md",
+                "file": "图论/图的相关概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "排序/冒泡排序.md",
+                "file": "图论/图的相关概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "排序/冒泡排序.md"
+                "file": "图论/图的相关概念.md"
               }
             }
           }
@@ -152,33 +139,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b9b248204bb85118",
+  "active": "9333b10ab61d7bd2",
   "lastOpenFiles": [
-    "排序/选择排序.md",
-    "排序/冒泡排序.md",
-    "排序/希尔排序.md",
-    "排序/-排序的基本概念.md",
-    "排序/插入排序.md",
     "排序/基数排序.md",
+    "排序/冒泡排序.md",
+    "图论/图的相关概念.md",
+    "排序/插入排序.md",
+    "排序/-排序的基本概念.md",
+    "排序/选择排序.md",
+    "排序/快速排序.md",
+    "排序/希尔排序.md",
+    "排序/堆排序.md",
+    "图论",
+    "排序/归并排序.md",
     "排序/data_structure.md",
     "附件/Peek 2023-10-20 15-11.gif",
-    "排序/快速排序.md",
     "附件/Peek 2023-10-20 15-09.gif",
-    "排序/归并排序.md",
     "附件/Peek 2023-10-20 15-08.gif",
     "附件/Peek 2023-10-20 15-07.gif",
     "附件/Peek 2023-10-20 15-04.gif",
     "附件/Peek 2023-10-19 16-34.gif",
     "附件",
-    "排序/堆排序.md",
     "排序"
   ]
 }
