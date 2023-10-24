@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "图论/图的相关概念.md",
-                "mode": "source",
+                "file": "图论/2. 建图方式.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f7893225036b81f8",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "图论/图的相关概念.md",
+                "file": "图论/2. 建图方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "图论/图的相关概念.md",
+                "file": "图论/2. 建图方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图论/图的相关概念.md"
+                "file": "图论/2. 建图方式.md"
               }
             }
           }
@@ -147,15 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9333b10ab61d7bd2",
+  "active": "1dd981c39e4d5a22",
   "lastOpenFiles": [
+    "排序/快速排序.md",
+    "排序/Untitled.md",
+    "图论/2. 建图方式.md",
+    "图论/1. 图的相关概念.md",
+    "图论/Untitled 1.md",
     "排序/基数排序.md",
     "排序/冒泡排序.md",
-    "图论/图的相关概念.md",
     "排序/插入排序.md",
     "排序/-排序的基本概念.md",
     "排序/选择排序.md",
-    "排序/快速排序.md",
     "排序/希尔排序.md",
     "排序/堆排序.md",
     "图论",
